@@ -1,3 +1,4 @@
+#This asks the user to input their name, age, and year level
 #Print a welcome statement
 print("Welcome to TODO!")
 print("Let's start by answering a few questions!")
